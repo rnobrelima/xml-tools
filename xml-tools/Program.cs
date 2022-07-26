@@ -9,10 +9,10 @@ namespace xml_tools
     {
         static void Main(string[] args)
         {
-            FindDuplicatesGuidsTiss();
+            FindDuplicatesByTagName();
         }
 
-        static void FindDuplicatesGuidsTiss()
+        static void FindDuplicatesByTagName()
         {
             var filePath = "D:\\XML";
             var archives = Directory.GetFiles(filePath);
@@ -35,13 +35,11 @@ namespace xml_tools
 
                     guides.Add(nodes.Item(i).InnerText);
 
-
                 }
                 if (guidesDuplicates.Count > 0)
                 {
                     Console.WriteLine(String.Format("File: " + fileName));
                     Console.WriteLine(String.Format("Guides Duplicates: " + String.Join(",", guidesDuplicates)));
-
                 }
                 else
                 {
