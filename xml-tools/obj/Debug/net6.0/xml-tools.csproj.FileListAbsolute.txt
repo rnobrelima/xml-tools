@@ -1,0 +1,15 @@
+D:\projects\xml-tools\xml-tools\xml-tools\bin\Debug\net6.0\xml-tools.exe
+D:\projects\xml-tools\xml-tools\xml-tools\bin\Debug\net6.0\xml-tools.deps.json
+D:\projects\xml-tools\xml-tools\xml-tools\bin\Debug\net6.0\xml-tools.runtimeconfig.json
+D:\projects\xml-tools\xml-tools\xml-tools\bin\Debug\net6.0\xml-tools.dll
+D:\projects\xml-tools\xml-tools\xml-tools\bin\Debug\net6.0\xml-tools.pdb
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.csproj.AssemblyReference.cache
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.AssemblyInfoInputs.cache
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.AssemblyInfo.cs
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.csproj.CoreCompileInputs.cache
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.dll
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\refint\xml-tools.dll
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.pdb
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\xml-tools.genruntimeconfig.cache
+D:\projects\xml-tools\xml-tools\xml-tools\obj\Debug\net6.0\ref\xml-tools.dll
